@@ -12,6 +12,7 @@
   - ForgeMultipart-1.12.2-2.6.2.83-universal  
   - OreLib-1.12.2-3.6.0.1  
   - Patchouli-1.0-23.6  
+  - NoMoreRecipeConflict-0.13(1.12.2)  
  
  ## Industrial mods (+Addons)
   - buildcraft-all-7.99.24.8  
