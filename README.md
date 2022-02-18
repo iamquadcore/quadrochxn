@@ -28,8 +28,8 @@
     └ ThermalFoundation-1.12.2-2.6.7.1-universal  
   
   - Mekanism-1.12.2-9.8.3.390  
-  ├ MekanismTools-1.12.2-9.8.3.390　　
-  └ MekanismGenerators-1.12.2-9.8.3.390　　
+    ├ MekanismTools-1.12.2-9.8.3.390  
+    └ MekanismGenerators-1.12.2-9.8.3.390  
   
   - industrialforegoing-1.12.2-1.12.13-237  
  
