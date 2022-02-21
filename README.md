@@ -52,10 +52,12 @@
   ├ SoundFilters-0.12_for_1.12  
   └ (OreLib-1.12.2-3.6.0.1)  
   - jei_1.12.2-4.16.1.301  
-  - journeymap-1.12.2-5.7.1
-  - SpawnChecker-2.7.7.137
-  - InventoryTweaks-1.63
-  - [1.12][forge2413]mod_StorageBox_v3.2.0
-  - [1.12][forge2413]mod_CutAllSMP_v2.5.2
-  - [1.12][forge2413]mod_DigAllSMP_v2.3.2
-  - [1.12][forge2413]mod_MineAllSMP_v2.6.5
+  - journeymap-1.12.2-5.7.1  
+  - SpawnChecker-2.7.7.137  
+  - InventoryTweaks-1.63  
+  - [1.12][forge2413]mod_StorageBox_v3.2.0  
+  - [1.12][forge2413]mod_CutAllSMP_v2.5.2  
+  - [1.12][forge2413]mod_DigAllSMP_v2.3.2  
+  - [1.12][forge2413]mod_MineAllSMP_v2.6.5  
+  - MultiPageChest-1.12-1.9.1  
+  - InfinityChest-1.12-1.2.15  
