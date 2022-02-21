@@ -13,6 +13,7 @@
   - OreLib-1.12.2-3.6.0.1  
   - Patchouli-1.0-23.6  
   - NoMoreRecipeConflict-0.13(1.12.2)  
+  - cxlibrary-1.12-1.5.0  
  
  ## Industrial mods (+Addons)
   - buildcraft-all-7.99.24.8  
