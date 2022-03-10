@@ -14,6 +14,7 @@
   - Patchouli-1.0-23.6  
   - NoMoreRecipeConflict-0.13(1.12.2)  
   - cxlibrary-1.12-1.5.0  
+  - RebornCore-1.12.2-3.19.5-universal  
  
  ## Industrial mods (+Addons)
   - buildcraft-all-7.99.24.8  
@@ -61,4 +62,7 @@
   - [1.12][forge2413]mod_DigAllSMP_v2.3.2  
   - [1.12][forge2413]mod_MineAllSMP_v2.6.5  
   - MultiPageChest-1.12-1.9.1  
+  └ (ページ変更ボタンでクラッシュするので入ってますが使ってません)  
   - InfinityChest-1.12-1.2.15  
+  └ (ロジスティクスパイプで搬入する際に相性の問題か受け付けないみたいなのでほぼ使ってません)  
+  - QuantumStorage-1.12-4.7.0  
