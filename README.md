@@ -34,6 +34,14 @@
     └ MekanismGenerators-1.12.2-9.8.3.390  
   
   - industrialforegoing-1.12.2-1.12.13-237  
+  
+  - ProjectRed-1.12.2-4.9.4.120-Base  
+  ├ ProjectRed-1.12.2-4.9.4.120-compat  
+  ├ ProjectRed-1.12.2-4.9.4.120-fabrication  
+  ├ ProjectRed-1.12.2-4.9.4.120-lighting  
+  ├ ProjectRed-1.12.2-4.9.4.120-mechanical  
+  ├ ProjectRed-1.12.2-4.9.4.120-world  
+  └ ProjectRed-1.12.2-4.9.4.120-integration  
  
  ## Magic mod
   - ProjectE-1.12.2-PE1.4.1  
