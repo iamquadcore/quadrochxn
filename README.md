@@ -66,3 +66,6 @@
   - InfinityChest-1.12-1.2.15  
   └ (ロジスティクスパイプで搬入する際に相性の問題か受け付けないみたいなのでほぼ使ってません)  
   - QuantumStorage-1.12-4.7.0  
+  - FTBBackups-1.1.0.1  
+  - VanillaFix-1.0.10-150  
+  - furniture-6.3.1-1.12.2  
