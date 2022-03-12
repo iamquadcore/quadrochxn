@@ -16,7 +16,7 @@
   - cxlibrary-1.12-1.5.0  
   - RebornCore-1.12.2-3.19.5-universal  
   - PTRLib-1.0.5  
-  - supermartijn642configlib-1.0.9a-mc1.12  
+  - supermartijn642corelib-1.0.16a-mc1.12  
  
  ## Industrial mods (+Addons) / 工業Mod
   - buildcraft-all-7.99.24.8  
