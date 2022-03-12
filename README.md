@@ -1,5 +1,5 @@
 # The list of mods I using / 使用しているModリスト
- ## Base mods
+ ## Base mods / 前提Mod
   - forge-1.12.2-14.23.5.2859-installer  
   - Forgelin-1.6.0  
   - tesla-core-lib-1.12.2-1.0.15  
@@ -16,7 +16,7 @@
   - cxlibrary-1.12-1.5.0  
   - RebornCore-1.12.2-3.19.5-universal  
  
- ## Industrial mods (+Addons)
+ ## Industrial mods (+Addons) / 工業Mod
   - buildcraft-all-7.99.24.8  
     ├ logisticspipes-0.10.3.114  
     ├ AdditionalEnchantedMiner-1.12.2-1.0.9-universal  
@@ -43,13 +43,19 @@
   ├ ProjectRed-1.12.2-4.9.4.120-world  
   └ ProjectRed-1.12.2-4.9.4.120-integration  
  
- ## Magic mod
+ ## Magic mod / 魔術Mod
   - ProjectE-1.12.2-PE1.4.1  
  
- ## Dimension mod
+ ## Dimension mod / ディメンションMod
   - twilightforest-1.12.2-3.11.1021-universal  
  
- ## Other
+ ## Furniture mods / 家具Mod
+  - furniture-6.3.1-1.12.2  
+  - additionallanterns-1.0.0-mc1.12  
+  - CookingForBlockheads_1.12.2-6.5.0  
+  - Decocraft-2.6.3.7_1.12.2  
+ 
+ ## Other / その他
   - OptiFine_1.12.2_HD_U_G5  
   - ironchest-1.12.2-7.0.72.847  
   - gravestone-1.10.3  
@@ -59,8 +65,7 @@
   - MoBends_1.12.2-1.0.0-beta-20.06.20  
   - WearableBackpacks-1.12.2-3.1.4  
   - DynamicSurroundings-1.12.2-3.6.1.0  
-  ├ SoundFilters-0.12_for_1.12  
-  └ (OreLib-1.12.2-3.6.0.1)  
+  └ SoundFilters-0.12_for_1.12   
   - jei_1.12.2-4.16.1.301  
   - journeymap-1.12.2-5.7.1  
   - SpawnChecker-2.7.7.137  
@@ -76,4 +81,4 @@
   - QuantumStorage-1.12-4.7.0  
   - FTBBackups-1.1.0.1  
   - VanillaFix-1.0.10-150  
-  - furniture-6.3.1-1.12.2  
+  - catwalks-1.12.2-4.0.45  
