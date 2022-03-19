@@ -17,25 +17,30 @@
   - RebornCore-1.12.2-3.19.5-universal  
   - PTRLib-1.0.5  
   - supermartijn642corelib-1.0.16a-mc1.12  
+  - EnderCore-1.12.2-0.5.76  
  
  ## Industrial mods (+Addons) / 工業Mod
   - buildcraft-all-7.99.24.8  
     ├ logisticspipes-0.10.3.114  
     ├ AdditionalEnchantedMiner-1.12.2-1.0.9-universal  
     ├ additionalpipes-6.0.0.8  
+    　└ (液体テレポートパイプの挙動がおかしいので今は使っていません。)  
     └ AkutoEngine-2.0.13  
    
   - IC2Classic+1.12-1.5.5.2.1  
     └ VisibleRayGenerator-1.12-5.0.1-universal  
   
   - ThermalExpansion-1.12.2-5.5.7.1-universal  
-    └ ThermalFoundation-1.12.2-2.6.7.1-universal  
+    ├ ThermalFoundation-1.12.2-2.6.7.1-universal  
+    └ ThermalDynamics-1.12.2-2.5.6.1-universal  
   
   - Mekanism-1.12.2-9.8.3.390  
     ├ MekanismTools-1.12.2-9.8.3.390  
     └ MekanismGenerators-1.12.2-9.8.3.390  
   
   - industrialforegoing-1.12.2-1.12.13-237  
+
+  - EnderIO-1.12.2-5.3.70  
   
   - ProjectRed-1.12.2-4.9.4.120-Base  
   ├ ProjectRed-1.12.2-4.9.4.120-compat  
@@ -56,6 +61,7 @@
   - additionallanterns-1.0.0-mc1.12  
   - CookingForBlockheads_1.12.2-6.5.0  
   - Decocraft-2.6.3.7_1.12.2  
+  - BiblioCraft[v2.4.6][MC1.12.2]
  
  ## Other / その他
   - OptiFine_1.12.2_HD_U_G5  
@@ -84,3 +90,5 @@
   - FTBBackups-1.1.0.1  
   - VanillaFix-1.0.10-150  
   - catwalks-1.12.2-4.0.45  
+  - Hwyla-1.8.26-B41_1.12.2  
+  - camera-1.0.10  
