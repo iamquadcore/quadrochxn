@@ -8,6 +8,9 @@
  - LMLibrary-1.1.2  
  - CreativeCore_v1.10.70_mc1.12.2  
  
+ ## Industrial mod / 工業Mod
+ - appliedenergistics2-rv6-stable-7  
+ 
  ## Magic mod / 魔術Mod
  - Thaumcraft-1.12.2-6.1.BETA26  
  
