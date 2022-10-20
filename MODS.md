@@ -63,7 +63,7 @@
   - Decocraft-2.6.3.7_1.12.2  
   - BiblioCraft[v2.4.6][MC1.12.2]
  
- ## Other / その他
+ ## Others / その他
   - OptiFine_1.12.2_HD_U_G5  
   - ironchest-1.12.2-7.0.72.847  
   - gravestone-1.10.3  
