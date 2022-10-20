@@ -1,4 +1,5 @@
 # The list of mods I using / 使用しているModリスト
+ Season2([https://github.com/iamquadcore/quadrochxn/blob/main/MODS.md](https://github.com/iamquadcore/quadrochxn/blob/main/MODS_Season2.md))
  ## Base mods / 前提Mod
   - forge-1.12.2-14.23.5.2859-installer  
   - Forgelin-1.6.0  
