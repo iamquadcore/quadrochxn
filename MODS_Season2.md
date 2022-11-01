@@ -21,3 +21,5 @@
  - LittleMaidReengaged_FirisPatch-9.3.2.fp.052  
  └ LittleMaidAppendPack-1.1.1  
  - OnlinePicFrame_v1.5.0-pre1_mc1.12.2  
+ - CosmeticArmorReworked-1.12.2-v5a  
+ - SignPicture-1.12.1-2.8.1-universal  
