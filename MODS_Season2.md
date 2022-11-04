@@ -22,4 +22,7 @@
  └ LittleMaidAppendPack-1.1.1  
  - ~OnlinePicFrame_v1.5.0-pre1_mc1.12.2~  
  - CosmeticArmorReworked-1.12.2-v5a  
- - SignPicture-1.12.1-2.8.1-universal  
+ - SignPicture-1.12.1-2.8.1-universal
+ - SmoothFont-mc1.12.2-2.1.4  
+ - ChickenChunks-1.12.2-2.4.2.74-universal  
+ - IntelliInput-2.6-for1.12.2    
