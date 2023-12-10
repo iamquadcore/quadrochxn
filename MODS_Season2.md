@@ -1,4 +1,4 @@
-# The list of mods I using in tech season 2 / 工業シーズン2で使用しているMOD
+# The list of mods I use in the tech season 2 / 工業シーズン2で使用しているMOD
  We set mods based on the list of season 1 / シーズン1のものをベースに組んでいます。
  (https://github.com/iamquadcore/quadrochxn/blob/main/MODS.md)
  
